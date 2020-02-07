@@ -12,6 +12,7 @@
     <p><a href="<?= base_url() ?>resep">Website Resep</a></p>
     <p><a href="<?= base_url() ?>pengacara">Website Pengacara</a></p>
     <p><a href="<?= base_url() ?>kontraktor">Website Kontraktor</a></p>
+    <p><a href="<?= base_url() ?>event">Website Event</a></p>
 
 </body>
 
